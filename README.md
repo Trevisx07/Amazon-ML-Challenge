@@ -2,7 +2,7 @@
 
 ## Team Details
 
-Name: EC Bots\
+Name: EC Bots
 
 - Het Patel (Nirma University)
 - Jaimin Gulale (Nirma University)
