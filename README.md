@@ -3,7 +3,6 @@
 ## Team Details
 
 Name: EC Bots\
-Ranked:  ***__ out of __***
 
 - Het Patel (Nirma University)
 - Jaimin Gulale (Nirma University)
